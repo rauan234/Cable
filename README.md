@@ -2,4 +2,4 @@ In this old high school project, I study the small oscillations of a catenary ca
 
 The repository has several branches. The code is not in "main" but in other branches. Each code branch is named according to its creation date, so that "06012021" contains the January 6th 2021 version of the project.
 
-2026 UPDATE: My writing skills at the time of conducting this project were very limited. To partially convey the contents of the project, I decided to include into the "main" branch a few excerpt screenshots from the project. The screenshots are from the Mathematica notebook "Cable 4.nb" from the branch "16022021".
+2026 UPDATE: Admittedly, my writing skills at the time of conducting this project were very limited. To partially convey the contents of the project, I decided to include into the "main" branch a few excerpt screenshots from the project. The screenshots are from the Mathematica notebook "Cable 4 uncut.nb" from the branch "16022021".
